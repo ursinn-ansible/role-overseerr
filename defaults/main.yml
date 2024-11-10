@@ -1,0 +1,8 @@
+---
+role_overseerr_image: 'lscr.io/linuxserver/overseerr'
+role_overseerr_container: 'overseerr'
+role_overseerr_puid: '1000'
+role_overseerr_pgid: '1000'
+role_overseerr_tz: 'Europe/Zurich'
+role_overseerr_dir: '/opt/app-overseerr'
+role_overseerr_network: 'app-network'
